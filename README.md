@@ -1,12 +1,12 @@
-# << ENTER WORKSHOP NAME HERE >>
+# Reproducible Research Software
 
-Materials for the McMaster Research Software workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+Materials for the McMaster Research Software workshop: **Reproducible Research Software**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://mcmasterrs.github.io/<<enter_site_url>>) with GitHub Pages.  
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://mcmasterrs.github.io/reproducible-rs) with GitHub Pages.  
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >>  
-- Content edited for online use by << ENTER NAME(S) HERE >>  
-- Online pages created by << ENTER NAME(S) HERE >>  
+- Workshop content created by Kelvin Lee  
+- Content edited for online use by Kelvin Lee  
+- Online pages created by Kelvin Lee  
 
 All content is made available under a GNU General Public License v3.0.  
