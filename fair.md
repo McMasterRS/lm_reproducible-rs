@@ -10,4 +10,4 @@ FAIR software is research software which meets the principles of findability, ac
 
 ![FAIR](assets/img/fair.png)
 
-_Image retrieved from [fosteropenscience.eu](https://www.fosteropenscience.eu/learning/assessing-the-fairness-of-data)_
+_Image retrieved from [fosteropenscience.eu](https://www.fosteropenscience.eu/learning/assessing-the-fairness-of-data)_  
