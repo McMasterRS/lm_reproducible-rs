@@ -19,3 +19,5 @@ An SMP typically includes the following contents:
 - Sharing & Reuse
 - Responsibilities & Resources
 - Ethics, Licensing & Legal Compliance
+
+Hyper Articles en Ligne (HAL) provides a basic [research software management plan template](https://hal.science/hal-01802565) that you may follow.  

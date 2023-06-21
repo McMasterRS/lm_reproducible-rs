@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Licensing & Legal Compliance
 
-> DISCALIMER: The following content is intended to highlight resources which may be useful to those developing open-source research software. It was not produced by lawyers and it *NOT* legal advice. McMaster University and McMaster Research Software Development Team are not responsible for the content referenced in this guide.
+> **DISCALIMER**: The following content is intended to highlight resources which may be useful to those developing open-source research software. It was not produced by lawyers and it **NOT** legal advice. McMaster University and McMaster Research Software Development Team are not responsible for the content referenced in this guide.
 
 It is encourage to assign an appropriate licence for your research software project. When choosing a license, consider the following:  
 
