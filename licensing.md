@@ -21,3 +21,7 @@ Where possible, use existing licenses, such as GNU General Public License and MI
 
 - [Open Source Licenses(OSI)](https://opensource.org/licenses/)
 - [choosealicense.com](https://choosealicense.com/licenses/)
+
+If your software collects and stores any data from your users, ideally you will want to host your software from a Canadian location. You and the data are protected by the Canadian constitution if your hosting server and data centre are in Canada. Services hosted outside Canada may be open to data seizure or surveillance by foreign personnel or international security agencies.  
+
+Hosting within Canadian soil is to protect you and you data, if for any reasons you cannot host the software in Canada, you are required to inform your users that their data collected by the software may be processed in a foreign country.  
