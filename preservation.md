@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Preservation
+title: Preservation & Sustainability
 parent: Software Management Plan
-nav_order: 1
+nav_order: 2
 ---
 
-## Preservation
+## Preservation & Sustainability
 
 Research software preservation has 4 major aspects.  
 

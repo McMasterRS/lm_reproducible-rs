@@ -13,10 +13,10 @@ It is a formal document that defines what you will develop, who the software is 
 An SMP typically includes the following contents:  
 
 - Assets Used & Produced
-- Documentation
-- Preservation
-- Reusability & Resources
-- Responsibilities
+- Software Documentation & Version Control Protocol
+- Preservation & Sustainability
+- Roles & Responsibilities
+- Software Dissemination & Sharing
 - Ethics, Licensing & Legal Compliance
 
 Hyper Articles en Ligne (HAL) provides a basic [research software management plan template](https://hal.science/hal-01802565) that you may follow.  

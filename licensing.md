@@ -2,7 +2,7 @@
 layout: default
 title: Ethics, Licensing & Legal Compliance
 parent: Software Management Plan
-nav_order: 2
+nav_order: 3
 ---
 
 ## Ethics
