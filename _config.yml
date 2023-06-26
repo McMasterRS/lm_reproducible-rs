@@ -1,8 +1,8 @@
 title: Reproducible Research Software # *** Enter workshop title here
-github_repo_url: "https://mcmasterrs.github.io/reproducible-rs" # ***Enter workshop URL (in github pages) here
-gh_edit_repository: "https://github.com/McMasterRS/reproducible-rs" #*** ENTER the github URL for your repo
+github_repo_url: "https://mcmasterrs.github.io/lm_reproducible-rs" # ***Enter workshop URL (in github pages) here
+gh_edit_repository: "https://github.com/McMasterRS/lm_reproducible-rs" #*** ENTER the github URL for your repo
 
-subtitle: "Research Software Development Workshop Subtitle"
+subtitle: "Research Software Development Learning Module - Reproducible Research Software"
 favicon_ico: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/favicon.ico"
 nav_footer_logo_bottom: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/logo.png"
 nav_footer_logo_bottom_href: "https://research.mcmaster.ca/home/support-for-researchers/research-resources/research-software-development/"
