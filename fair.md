@@ -12,6 +12,8 @@ FAIR software is research software which meets the principles of findability, ac
 
 _Image retrieved from [fosteropenscience.eu](https://www.fosteropenscience.eu/learning/assessing-the-fairness-of-data)_  
 
+Here's what each aspect of FAIR entails when applied to research software:  
+
 1. Findability
 
     Findability focuses on making research software discoverable both by humans and machines. This involves providing metadata and appropriate identifiers for the software, such as Digital Object Identifiers (DOIs) or Persistent Identifiers (PIDs). Findable software should have clear and persistent references, making it easier for others to locate and access.  
@@ -28,4 +30,4 @@ _Image retrieved from [fosteropenscience.eu](https://www.fosteropenscience.eu/le
 
     Reusability emphasizes designing research software in a way that facilitates its reuse by other researchers and developers. Reusable software should be well-documented, including clear instructions, code comments, and user guides. It should be modular, well-structured, and accompanied by appropriate documentation, examples, and test cases to make it easier for others to understand, modify, and build upon the software.  
 
-By following the FAIR principles, research software becomes more transparent, collaborative, and impactful. It enables others to find, access, understand, and reuse the software effectively, contributing to the reproducibility and sustainability of research outcomes. It also fosters a culture of openness and sharing, allowing for validation, collaboration, and advancements in research fields.
+By following the FAIR principles, research software becomes more transparent, collaborative, and impactful. It enables others to find, access, understand, and reuse the software effectively, contributing to the reproducibility and sustainability of research outcomes. It also fosters a culture of openness and sharing, allowing for validation, collaboration, and advancements in research fields.  
