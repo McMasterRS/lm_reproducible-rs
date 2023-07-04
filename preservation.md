@@ -11,7 +11,7 @@ Preservation and sustainability in research software management refer to practic
 
 1. Storage
 
-    Software packages or code need to be stored and indexed with reliable version control management services. Storing the software along with any associated data, in a secure and reliable manner. This ensures that the software and data are protected from loss, degradation, or obsolescence..  
+    Software packages or code need to be stored and indexed with reliable version control management services. Storing the software along with any associated data, in a secure and reliable manner. This ensures that the software and data are protected from loss, degradation, or obsolescence.  
 
 2. Retrieval
 
