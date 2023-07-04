@@ -7,7 +7,8 @@ nav_order: 2
 
 ## Preservation & Sustainability
 
-Research software preservation has 4 major aspects.  
+
+Preservation and sustainability in research software management refer to practices and strategies aimed at ensuring the long-term availability, usability, and maintenance of research software beyond the duration of a specific project. It involves measures to address technological, organizational, and environmental factors that may impact the software's accessibility and usability over time. Research software preservation has 4 major aspects.  
 
 1. Storage
 
