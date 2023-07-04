@@ -7,12 +7,11 @@ nav_order: 2
 
 ## Preservation & Sustainability
 
-
 Preservation and sustainability in research software management refer to practices and strategies aimed at ensuring the long-term availability, usability, and maintenance of research software beyond the duration of a specific project. It involves measures to address technological, organizational, and environmental factors that may impact the software's accessibility and usability over time. Research software preservation has 4 major aspects.  
 
 1. Storage
 
-    Software packages or code need to be stored and indexed with reliable version control management services.  
+    Software packages or code need to be stored and indexed with reliable version control management services. Storing the software along with any associated data, in a secure and reliable manner. This ensures that the software and data are protected from loss, degradation, or obsolescence..  
 
 2. Retrieval
 
@@ -24,4 +23,4 @@ Preservation and sustainability in research software management refer to practic
 
 4. Replay
 
-    Include test cases that demonstrate the preserved software is producing the correct results.  
+    Include test cases that demonstrate the preserved software is producing the correct results. This relates to the construction & documentation aspect above. Since a documentation (a user manual e.g.) should include detailed instructions on how to install, configure, and use the software. It helps future users and maintainers understand the software's functionality, dependencies, and assumptions, ensuring its continued usability.  
