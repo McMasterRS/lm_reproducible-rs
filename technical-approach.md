@@ -29,6 +29,10 @@ Some software also can be built and shared as container images. Docker offers a 
 
 A software package registry is a centralized repository or database that hosts and manages software packages. It serves as a platform for developers and users to discover, download, install, and manage software libraries, frameworks, tools, or applications. Software package registries provide a standardized way to distribute and share software components across different programming languages and platforms. The package installer for Python mentioned above, `pip`, download packages from a software package registry called [PyPI (Python Package Index)](https://pypi.org/).  
 
-## Software Testing
+### Software Testing
+
+Research software often relies on external libraries, frameworks, or tools. Testing aids in managing dependencies by verifying that the software works correctly with specific versions of those dependencies. This information is crucial for reproducibility because it allows others to recreate the software environment accurately, ensuring that the same results can be obtained.  
+
+Testing enables collaboration among researchers by providing a shared understanding of the software's behaviour. By testing and documenting the software thoroughly, researchers can verify each other's work, reproduce experiments, and validate research outcomes. This collaborative approach fosters transparency, trust, and confidence in the research and open source community.  
 
 Testing should be carried out in different levels of research software. Consider implementing a formal test plan, including unit testing, regression and integration testing, with the help of a continuous integration workflow ([GitHub Actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/) e.g.). Like the software source code, the test plan should be well-documented, well-commented and open-source to increase the legitimacy and transparency of the projects.  
