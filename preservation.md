@@ -11,11 +11,11 @@ Preservation and sustainability in research software management refer to practic
 
 1. Storage
 
-    Software packages or code need to be stored and indexed with reliable version control management services. Storing the software along with any associated data, in a secure and reliable manner. This ensures that the software and data are protected from loss, degradation, or obsolescence.  
+    Software packages or code need to be stored with reliable version control management services. Storing the software along with any associated data, in a secure and reliable manner. This ensures that the software and data are protected from loss, degradation, or obsolescence. Aside from storing the software code with a version control management service, indexing the software with a Digital Object Identifier (DOI) will improve findability of the software in the research community.  
 
 2. Retrieval
 
-    A preserved software package as well as its dependencies need to be clearly labeled and identified with a suitable catalog. In some cases, the dependencies need to be bundled with the software package. It is to prevent the preserved software from being unusable if the dependencies cannot be retrieved in the future. See the [`left-pad` debacle](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code).  
+    A preserved software package as well as its dependencies need to be clearly labeled and identified with a suitable catalog. In some cases, the dependencies need to be bundled with the software package. It is to prevent the preserved software from being unusable if the dependencies cannot be retrieved in the future and ensure the overall software accessibility. See the [`left-pad` debacle](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code).  
 
 3. Construction
 
