@@ -8,7 +8,7 @@ has_toc: true
 
 ## Software Management Plan (SMP)
 
-It is a formal document that defines what you will develop, who the software is for, how it will be delivered and how it will be supported over time. The plan addresses management during the active phases of development and sustainability once the project is completed.  
+A Software Management Plan (SMP) is a formal document that defines what you will develop, who the software is for, how it will be delivered and how it will be supported over time. The plan addresses management during the active phases of development and sustainability once the project is completed.  
 
 An SMP typically includes the following contents:  
 
