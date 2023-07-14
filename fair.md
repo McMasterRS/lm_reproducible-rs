@@ -16,7 +16,7 @@ Here's what each aspect of FAIR entails when applied to research software:
 
 1. Findability
 
-    Findability focuses on making research software discoverable both by humans and machines. This involves providing metadata and appropriate identifiers for the software, such as Digital Object Identifiers (DOIs) or Persistent Identifiers (PIDs). Findable software should have clear and persistent references, making it easier for others to locate and access using common search engine. While DOIs themselves do not directly affect search enginer optimization (SEO), they facilitate the proper identification, linking, and accessibility of research content. These factors, in turn, can contribute to improved visibility, higher authority, and increased citation rates, which can indirectly impact the SEO of research outputs.  
+    Findability focuses on making research software discoverable both by humans and machines. This involves providing metadata and appropriate identifiers for the software, such as Digital Object Identifiers (DOIs) or Persistent Identifiers (PIDs). Findable software should have clear and persistent references, making it easier for others to locate and access using common search engine. While DOIs themselves do not directly affect search engine optimization (SEO), they facilitate the proper identification, linking, and accessibility of research content. These factors, in turn, can contribute to improved visibility, higher authority, and increased citation rates, which can indirectly impact the SEO of research outputs.  
 
 2. Accessibility
 
