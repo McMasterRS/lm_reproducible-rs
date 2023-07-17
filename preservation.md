@@ -2,7 +2,7 @@
 layout: default
 title: Preservation & Sustainability
 parent: Software Management Plan
-nav_order: 2
+nav_order: 3
 ---
 
 ## Preservation & Sustainability
