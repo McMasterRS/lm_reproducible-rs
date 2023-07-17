@@ -23,9 +23,9 @@ In a research software management plan, various assets are used and produced (al
 
     Research software often deals with data and datasets used for experimentation, analysis, or training machine learning models. These assets can include raw data files, processed datasets, metadata, and documentation describing the data sources and preprocessing steps.  
 
-4. Licensing and Copyright Information
+4. Other Software Packages/Libraries
 
-    Research software management plans should include details about the software's licensing and copyright information. This ensures compliance with relevant open-source licenses or any restrictions placed on the software's usage and redistribution.  
+    Third-party libraries are essential components of most software projects, and acknowledging their use is important for legal compilance reason. Since many third-party libraries/software packages come with specific licenses and usage terms that need to be adhered to. By documenting these libraries in the management plan, developers and stakeholders can ensure compliance with the licensing requirements and avoid potential legal issues related to intellectual property rights when selecting a licensing for the project.  
 
 ### Assets Produced
 
@@ -41,11 +41,15 @@ In a research software management plan, various assets are used and produced (al
 
     Comprehensive documentation is crucial for managing research software effectively. It includes various types of documentation such as user manuals, installation guides, API references, code comments, and README files. These documents provide instructions on how to use the software, explain its architecture and design choices, and offer guidance on contributing to and extending the software.  
 
-4. Test Data and Test Suites
+4. Licensing and Copyright Information
+
+    Research software management plans should include details about the software's licensing and copyright information. This ensures compliance with relevant open-source licenses or any restrictions placed on the software's usage and redistribution.  
+
+5. Test Data and Test Suites
 
     Datasets used to validate the correctness of the software and the associated test suites to automate testing.  
 
-5. Research Outputs
+6. Research Outputs
 
     Depending on the nature of the research, the software may produce data, results, or other outputs that contribute to the research findings. As well as publications or reports that describe the research, including the software, algorithms, and methodologies used.  
 
