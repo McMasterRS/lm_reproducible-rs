@@ -84,6 +84,14 @@ Some software also can be built and shared as container images. Docker offers a 
 
 A software package registry is a centralized repository or database that hosts and manages software packages. It serves as a platform for developers and users to discover, download, install, and manage software libraries, frameworks, tools, or applications. Software package registries provide a standardized way to distribute and share software components across different programming languages and platforms. The package installer for Python mentioned above, `pip`, download packages from a software package registry called [PyPI (Python Package Index)](https://pypi.org/).  
 
+You may also consider adding your software to the [Research Software Directory](https://research-software-directory.org/). The Netherlands eScience Center developed the open-source research software directory to promote visibility, findability, impact and reuse of research software.  
+
+Why do you need all these preservation methods? One may ask. Each of these methods/tools help promote the reproducibility of research software in different aspects. Here is the general rule of thumb, use...  
+
+- **GitHub or other source code repository management services**, for storing software source code files and related assets and collaboration.  
+- **Zenodo or other records repository**, for generating a persistent object identifier for your software and using it for citations in publications.  
+- **Research Software Directory**, for making your research software discoverable and findable in the research software community.  
+
 ### Software Testing
 
 Research software often relies on external libraries, frameworks, or tools. Testing aids in managing dependencies by verifying that the software works correctly with specific versions of those dependencies. This information is crucial for reproducibility because it allows others to recreate the software environment accurately, ensuring that the same results can be obtained.  
