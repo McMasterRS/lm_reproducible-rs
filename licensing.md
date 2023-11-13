@@ -31,4 +31,10 @@ Where possible, use existing licenses, such as GNU General Public License or MIT
 - [Open Source Licenses (OSI)](https://opensource.org/licenses/)
 - [choosealicense.com](https://choosealicense.com/licenses/)
 
+Can I share my research data and software source code using the same Creative Commons License? Short answer is no.  
+
+The Creative Commons Organization strongly recommend against using Creative Commons licenses for software in its [Frequently Ask Questions](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software).  
+
+> Unlike software-specific licenses, CC licenses do not contain specific terms about the distribution of source code, which is often important to ensuring the free reuse and modifiability of software. Many software licenses also address patent rights, which are important to software but may not be applicable to other copyrightable works. Additionally, our licenses are currently not compatible with the major software licenses, so it would be difficult to integrate CC-licensed work with other free software. Existing software licenses were designed specifically for use with software and offer a similar set of rights to the Creative Commons licenses.  
+
 Ethical considerations extend to intellectual property and licensing in research software development. Developers should respect copyright, properly attribute existing software components, and consider open-source licensing when appropriate. This ensures the fair and responsible use of intellectual property.  
