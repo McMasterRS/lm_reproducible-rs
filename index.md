@@ -10,7 +10,7 @@ Reproducible research software is a key component of the broader movement toward
 
 Reproducible research software fosters collaboration and knowledge sharing within the scientific community. By openly sharing software and associated artifacts, researchers enable others to replicate experiments, validate results, and build upon existing work. This promotes the verification and refinement of scientific findings, helps avoid duplication of effort, and accelerates the advancement of knowledge.  
 
-The learning module intends to provide guidance on how to improve reproducibility in your research software based on the FAIR principles.  
+This learning module intends to provide guidance on how to improve reproducibility in your research software based on the FAIR principles.  
 
 ### Learning Outcome
 
