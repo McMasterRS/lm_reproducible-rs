@@ -11,3 +11,6 @@ Proper research software deposit and sharing are increasingly recognized as best
 
 The US National Institutes of Health offers a concise yet informative resource outlining [best practices for developing and sharing research software](https://datascience.nih.gov/tools-and-analytics/best-practices-for-sharing-research-software-faq). Such resources prove invaluable for crafting an effective software management plan and optimizing your software during the development process.  
 
+### Further Readings
+
+- [Ten quick tips for building FAIR workflows](https://doi.org/10.1371%2Fjournal.pcbi.1011369)
