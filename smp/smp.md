@@ -33,18 +33,18 @@ Here are several benefits to having a well-documented plan to manage and share y
 
 ## Reproducibility Goal
 
-There are many best practices to software project management. However, only few of them are best to all project scenarios. Defining reproducibility your project wants to achieve by categorical levels simplifies targeting best practices and resources to meet the specific needs of each level.  
+Many best practices can be applied to software project management. However, only few of them are best to all project scenarios. Defining reproducibility your project wants to achieve by categorical levels simplifies targeting best practices and resources to meet the specific needs of each level.  
 
 Here is an article about different levels of reproducibility in research software, [_How reproducible should research software be?_](https://zenodo.org/record/4761867). In this article, it introduces four levels of research software reproducibiltiy, which can be applied to identify how reproducible the software should be and the best practices to achieve the different levels of reproducibility .  
 
 - Level 0 - The script you downloaded that one time from the internet
     > Share code snippets, functions, single operations from the internet. Simple code that is intended for single or occasional use.
 
-- Level 1 - Research software for pulication
-    > Code that directly support the research conclusion, e.g. data processing, analysis and visualization scripts specific to the project or data.
+- Level 1 - Research software for publication
+    > Code that directly support the research conclusion, for example data processing, analysis and visualization scripts specific to the project or data.
 
 - Level 2 - Research software as a tool
-    > Code that is intended to be applied to different inputs or scenarios over a modest period of time, e.g. scientific software packages, development framworks.
+    > Code that is intended to be applied to different inputs or scenarios over a modest period of time, for example scientific software packages, development frameworks.
 
 - Level 3 - Research software as infrastructure
-    > Software that is used by a broader community, e.g. data archiving systems, laboratory information management systems.
+    > Software that is used by a broader community, for example data archiving systems, laboratory information management systems.

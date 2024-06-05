@@ -19,7 +19,7 @@ Publishing every step (computer code) and the underlying logic executed in the p
 poly = PolynomialFeatures(degree=2, include_bias=False)
 ```
 
-How will the variable `poly` behave if the number of `degrees` is set to 4 instead of 2 or `include_bias` is set to true? This information is the underlying logic executed to reach to the analysis result. One might be interested in the reasoning of the decision made during the analysis such as why choosing a specific value for the parameter of a function. Code commenting can help illustrating the logics side by side with the code step executed in the analysis process. Code commenting is often done manually, and it is a long and time-consuming process. There are also AI tools that help speeding up the code commenting process, such as [GitHub Copilot](https://github.com/features/copilot).  
+How will the variable `poly` behave if the number of `degrees` is set to 4 instead of 2 or `include_bias` is set to true? This information is the underlying logic executed to reach to the analysis result. One might be interested in the reasoning of the decision made during the analysis such as why choosing a specific value for the parameter of a function. Code commenting can help illustrating the logics side by side with the code step executed in the analysis process. Code commenting is often done manually, and it is a long and time-consuming process. Many AI tools in the market help speeding up the code commenting process, such as [GitHub Copilot](https://github.com/features/copilot).  
 
 ## Version Control Audit
 
@@ -58,7 +58,7 @@ Aside from the software design perspective, employing middleware or integration 
 
 In addition, the use of non-proprietary and lossless file formats for assets sharing is encouraged in reproducibility improvement.  
 
-For documentation, formats like `.md` and `.txt` are preferable over `.docx` and `.pages`. And for software data, formats like `.csv`, `.xml` and `.json` are preferable over `.xls`. And for imagery assets, vector file formats like `.svg` and `.eps` are preferable over bitmap file formats like `.jpg` and `.gif`. When compiling software binary, avoid using proprietary code compilers (i.e. building software for platforms, like Windows and MacOS). As platform and OS dependencies are potential barriers to other users or developers.
+For documentation, formats like `.md` and `.txt` are preferable over `.docx` and `.pages`. And for software data, formats like `.csv`, `.xml` and `.json` are preferable over `.xls`. And for imagery assets, vector file formats like `.svg` and `.eps` are preferable over bitmap file formats like `.jpg` and `.gif`. When compiling software binary, avoid using proprietary code compilers (that is building software for platforms, like Windows and MacOS). As platform and OS dependencies are potential barriers to other users or developers.
 
 If files are stored using proprietary software and when the software is no longer available or not available other users, information within those files will be lost. If proprietary files are needed for sharing, consider providing open files in addition to this.  
 

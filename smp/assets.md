@@ -25,7 +25,7 @@ In a research software management plan, various assets are used and produced (al
 
 4. Other Software Packages/Libraries
 
-    Third-party libraries are essential components of most software projects, and acknowledging their use is important for legal compilance reason. Since many third-party libraries/software packages come with specific licenses and usage terms that need to be adhered to. By documenting these libraries in the management plan, developers and stakeholders can ensure compliance with the licensing requirements and avoid potential legal issues related to intellectual property rights when selecting a licensing for the project.  
+    Third-party libraries are essential components of most software projects, and acknowledging their use is important for legal compliance reason. Since many third-party libraries/software packages come with specific licenses and usage terms that need to be adhered to. By documenting these libraries in the management plan, developers and stakeholders can ensure compliance with the licensing requirements and avoid potential legal issues related to intellectual property rights when selecting a licensing for the project.  
 
 ## Assets Produced
 
