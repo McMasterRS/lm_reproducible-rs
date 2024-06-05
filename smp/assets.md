@@ -5,11 +5,11 @@ parent: Software Management Plan
 nav_order: 2
 ---
 
-## Assets Used & Produced
+# Assets Used & Produced
 
 In a research software management plan, various assets are used and produced (also known as input and output) to ensure effective management and development of research software, some common assets include:  
 
-### Assets Used
+## Assets Used
 
 1. Version Control System
 
@@ -27,7 +27,7 @@ In a research software management plan, various assets are used and produced (al
 
     Third-party libraries are essential components of most software projects, and acknowledging their use is important for legal compilance reason. Since many third-party libraries/software packages come with specific licenses and usage terms that need to be adhered to. By documenting these libraries in the management plan, developers and stakeholders can ensure compliance with the licensing requirements and avoid potential legal issues related to intellectual property rights when selecting a licensing for the project.  
 
-### Assets Produced
+## Assets Produced
 
 1. Source code
 

@@ -5,7 +5,7 @@ parent: Software Management Plan
 nav_order: 4
 ---
 
-## Ethics
+# Ethics
 
 Research software often deals with sensitive data, such as personal information or proprietary data. Ethical considerations ensure that software developers implement appropriate security measures and adhere to data protection regulations. Researchers must also obtain informed consent from participants and handle data in a way that respects privacy rights and maintains confidentiality.  
 
@@ -15,7 +15,7 @@ Hosting within Canadian soil is to protect you and your data, if for any reason 
 
 Some research software, such as machine learning models, should be developed and used in a way that promotes inclusivity and minimizes biases. Ethical considerations involve ensuring that software tools do not discriminate against certain groups, provide equal opportunities for participation, and consider diverse perspectives. Developers need to be aware of biases that may be present in their algorithms or data and work to address them.  
 
-## Licensing & Legal Compliance
+# Licensing & Legal Compliance
 
 > **DISCLAIMER**: The following content is intended to highlight resources which may be useful to those developing open-source research software. This content is for informational purposes only. It is **NOT** legal advice. McMaster University and McMaster Research Software Development Team are not responsible for the content referenced in this guide, nor any and all costs, claims, losses, damages, expenses which may result through the application of this information. Be sure to contact a professional for legal advice.
 

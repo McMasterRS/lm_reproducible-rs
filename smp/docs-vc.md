@@ -5,7 +5,7 @@ parent: Software Management Plan
 nav_order: 1
 ---
 
-## Documentation
+# Documentation
 
 A software management plan should include explanation of how the research software will be documented as well as the types of documentation that will be created. In general, a research software project should include manuals for both users and developers.  
 
@@ -15,7 +15,7 @@ While a developer manual or programming guide, is a document that provides detai
 
 Same as a software management plan, documentation is a living document and needs to been constantly reviewed and updated as the project progresses.  
 
-## Version Control Protocol
+# Version Control Protocol
 
 A software management plan should specify the version control system that will be used to manage the research software source code and track changes. Furthermore, it should describe the project's workflow and branching strategy. A branching strategy dictates how branches in the project are created, managed and merged within the code repository hosting the project. It defines the structure and flow of code changes (code review and approval e.g.) throughout the development lifecycle.  
 

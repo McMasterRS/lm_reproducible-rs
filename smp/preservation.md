@@ -5,7 +5,7 @@ parent: Software Management Plan
 nav_order: 3
 ---
 
-## Preservation & Sustainability
+# Preservation & Sustainability
 
 Preservation and sustainability in research software management refer to practices and strategies aimed at ensuring the long-term availability, usability, and maintenance of research software beyond the duration of a specific project. It involves measures to address technological, organizational, and environmental factors that may impact the software's accessibility and usability over time. Research software preservation has 4 major aspects.  
 

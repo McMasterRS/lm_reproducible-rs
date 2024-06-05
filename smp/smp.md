@@ -6,7 +6,7 @@ has_children: true
 has_toc: true
 ---
 
-## Software Management Plan (SMP)
+# Software Management Plan (SMP)
 
 A Software Management Plan (SMP) is a formal document that defines what you will develop, who the software is for, how it will be delivered and how it will be supported over time. The plan addresses management during the active phases of development and sustainability once the project is completed.  
 
@@ -23,7 +23,7 @@ Hyper Articles en Ligne (HAL) provides a basic [research software management pla
 
 Utilizing a software management plan is highly recommended to ensure the desired level of reproducibility in your project. Achieving absolute reproducibility is challenging given the growing complexity of statistical and computational techniques, such as multi-threading and pseudo-randomness. However, by clearly defining reproducibility goals and implementing a comprehensive SMP, you can employ targeted best practices to reduce computational uncertainty and enhance research reproducibility.  
 
-### Why you may need a Software Management Plan?
+## Why you may need a Software Management Plan?
 
 Here are several benefits to having a well-documented plan to manage and share your research software as the [Software Sustainability Institute](https://www.software.ac.uk/guide/writing-and-using-software-management-plan) points out:  
 
@@ -31,7 +31,7 @@ Here are several benefits to having a well-documented plan to manage and share y
 - Reduce the efforts for other researchers to make use of, reuse and cite the research software.  
 - More research funders start requiring software management to be addressed as part of the mandatory research data management plan.  
 
-### Reproducibility Goal
+## Reproducibility Goal
 
 There are many best practices to software project management. However, only few of them are best to all project scenarios. Defining reproducibility your project wants to achieve by categorical levels simplifies targeting best practices and resources to meet the specific needs of each level.  
 

@@ -4,7 +4,7 @@ title: FAIR Principles
 nav_order: 3
 ---
 
-## FAIR Software
+# FAIR Software
 
 FAIR software is research software which meets the principles of findability, accessibility, interoperability and reusability for external and internal parties. The FAIR principles were developed to promote openness, accessibility, and usability of research data and software. When applied to research software, the FAIR principles aim to maximize its impact, transparency, and reproducibility.  
 
