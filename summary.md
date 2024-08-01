@@ -2,7 +2,6 @@
 layout: default
 title: Summary
 nav_order: 5
-has_toc: true
 ---
 
 # Summary
