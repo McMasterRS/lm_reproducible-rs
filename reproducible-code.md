@@ -23,7 +23,7 @@ poly = PolynomialFeatures(degree=2, include_bias=False)
 
 How will the variable `poly` behave if the number of `degrees` is set to 4 instead of 2, or `include_bias` is set to true? This information is the underlying logic executed to reach to the analysis result. One might be interested in the reasoning of the decision made during the analysis such as why choosing a specific value for the parameter of a function. Code commenting can help illustrate the intended logic side by side with the code step executed in the process. It also documents the intent, which is necessary to verify the code is accurately implementing the design. This documentation is especially important when considering that the code of the underlying function may change over time.  
 
-Code commenting is often done manually and can be a time-consuming process. Many AI tools in the market help speeding up the code commenting process. These tools are integrated into version control systems (e.g. [GitHub Copilot](https://github.com/features/copilot) and integrated development environments (e.g. Microsoft Visual Studio).  
+Code commenting is often done manually and can be a time-consuming process. Many AI tools in the market help speeding up the code commenting process. These tools are integrated into version control systems (e.g. [GitHub Copilot](https://github.com/features/copilot)) and integrated development environments (e.g. Microsoft Visual Studio).  
 
 ## Version Control Audit
 
