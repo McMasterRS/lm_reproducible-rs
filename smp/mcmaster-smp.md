@@ -19,10 +19,8 @@ Next, you fill out the nature of the research software project you are planning 
 
 You should now see your project details and you may provide additional information for your project. Click "Write Plan" on the tab and fill out all the sections for the SMP with explanatory guidance text.  
 
-<p align="left">
-    <img src="assets/img/mac-smp-3.png" alt="mac-smp-3" width="50%" height="100%">
-    <img src="assets/img/mac-smp-4.png" alt="mac-smp-4" width="50%" height="100%">
-</p><br>
+![mac-smp-3](assets/img/mac-smp-3.png)
+![mac-smp-4](assets/img/mac-smp-4.png)
 
 Once you've finished, you may go to the "Download" tab and export your completed SMP in formats like `.pdf`, `.csv`, `.html`, `.txt`, `.docx` and `.json`.  
 
