@@ -25,6 +25,8 @@ How will the variable `poly` behave if the number of `degrees` is set to 4 inste
 
 Code commenting is often done manually and can be a time-consuming process. Many AI tools in the market help speeding up the code commenting process. These tools are integrated into version control systems (e.g. [GitHub Copilot](https://github.com/features/copilot)) and integrated development environments (e.g. Microsoft Visual Studio).  
 
+While top-level comments should provide context and sketch the software logic in plain language, the source code itself should also ideally be self-contained explanation of logic and domain knowledge for people from different disciplines. Every name (function name, variable & constant name) is a change to communicate. For example, instead of naming your variables, `X`, `w` and `Z`, perhaps it is better to name them, `observation_X`, `elevation_angle_omega` and `reconstruction_Z`, or instead of calling a function `fetch()`, perhaps it is better to call the function what it does, `read_and_normalize_record()`.  
+
 ## Version Control Audit
 
 One might be interested in seeing the details of the code for an analysis when a researcher is curious about how a specific process is designed to reach to a particular result. This interest may be due to validation of the analysis, suspicion of an error or to gain an understanding of new methodologies. Generating and providing an audit trail of work allows others follow or retrace the thought process in designing the code.  
