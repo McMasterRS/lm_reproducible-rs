@@ -35,6 +35,39 @@ One might be interested in seeing the details of the code for an analysis when a
 
 This knowledge-sharing can be facilitated by publicly maintaining your source code with a version control system and including adequate and meaningful commit messages with each changes. Commit messages serve as a form of communication between team members working on a project and users outside of the project. Clear and descriptive messages provide valuable context about the changes made in a commit and why they were made, making it easier for others to understand and collaborate on the codebase. It allows team members to track the progress of specific features or bug fixes, review changes and provide feedback effectively.  
 
+One way to effectively communicate through commit messages is to utilize [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Conventional commit is a history log standard with a format like,  
+
+```bash
+<type>[optional scope]: <description>
+
+[optional body]
+    [optional footer(s)]
+```
+
+```bash
+feat(github)!: Remove access to GitHub API
+
+BREAKING CHANGE: Removes access from GitHub since we now only have access to GitLab.
+
+Reviewed-by: XYZ
+    Refs: ticket-123
+```
+
+The scope, `github`, in the example above is the part of the codebase affected by the change and the type, `feat`, is a required part of the commit message that indicates the nature of the change being made. Here is a list of common types in a conventional commit.  
+
+- `fix` : bug fix
+- `feat` : new feature
+- `build` : change that affects the build system or external dependencies
+- `chore` : change that does not fix a bug or add new feature
+- `ci` : change to the continuous integration configuration files and scripts
+- `docs` : change in documentation
+- `style` : change that does not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+- `refactor` : code change that neither fixes a bug nor adds a feature
+- `perf` : code change that improves performance
+- `test` : new tests or correction of existing tests
+
+There is a detail specification of [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/), detailing all common types and some additional modifiers.  
+
 ## Interoperable Software Design
 
 Interoperable software is designed to enabling integration with other software components via a standard programming interface. Consider the following two functions:  
